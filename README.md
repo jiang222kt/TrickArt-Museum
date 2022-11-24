@@ -4,9 +4,7 @@
 <div style="text-align: center;">
 <img src="capture.png" width="75%">
 </div>
-<div style="text-align: center;">
-capture
-</div>
+
 
 # コンパイルと実行
 
